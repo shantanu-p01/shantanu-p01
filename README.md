@@ -13,11 +13,9 @@
 
 - 🤝 I’m looking for help with **C++, Java, Go**
 
-- 👨‍💻 All of my projects are available at [Coming-Soon](Coming-Soon)
+- 👨‍💻 All of my projects are [Coming-Soon]
 
 - 📫 How to reach me **shantanu.verulkar.01@gmail.com**
-
-- 📄 Know about my experiences [Coming-Soon](Coming-Soon)
 
 - ⚡ Fun fact **The password for the computer controls of nuclear-tipped missiles of the U.S. for eight years was 00000000.**
 
