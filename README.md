@@ -5,15 +5,14 @@
 
 - 📫 How to reach me **shantanu.verulkar.01@gmail.com**
 
-- 📖 Check my blog at **soon**
+- 📖 Blogs coming **soon**
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discordapp.com/users/1202990255201058827" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Baka#8182" height="30" width="40" /></a>
-<a href="https://www.reddit.com/user/shantanu-p01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Dr-NULL" height="30" width="40" /></a>
-<a href="https://twitter.com/shantanu_p01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="debakar_roy" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/shantanup01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debakar-roy" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/1202990255201058827" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shantanu-verulkar" height="30" width="40" /></a>
+<a href="https://www.reddit.com/user/shantanu-p01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="shantanu-verulkar" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/shantanup01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shantanu-verulkar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
